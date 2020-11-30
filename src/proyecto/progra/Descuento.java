@@ -10,5 +10,7 @@ package proyecto.progra;
  * @author andre
  */
 public class Descuento {
-    
+    public void AplicarDesceunto(){
+       // 
+    }
 }
