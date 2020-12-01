@@ -10,7 +10,8 @@ package proyecto.progra;
  * @author andre
  */
 public class Descuento {
-    public void AplicarDesceunto(){
-       // 
+    public void AplicarDesceunto(int cantidad, int deportivo, int casual, int elegante){
+        
+       
     }
 }
